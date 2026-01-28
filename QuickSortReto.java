@@ -17,7 +17,7 @@ class Persona {
 
     @Override
     public String toString() {
-        return nombre + ";" + tipo;
+        return nombre + " : " + tipo;
     }
 }
 
