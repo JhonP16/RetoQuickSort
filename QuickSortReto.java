@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-// 1. Clase para representar cada fila del CSV
+
 class Persona {
     String nombre;
     String tipo;
@@ -130,3 +130,4 @@ public class QuickSortReto {
         }
     }
 }
+
